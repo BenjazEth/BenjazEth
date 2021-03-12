@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjazEth
 - 👀 I’m interested in web and mobile app devlopment
-- 🌱 I’m currently learning edge cutting new technologies
+- 🌱 I’m currently learning edge cutting new technologies and have BSc in Software Engineering 
 - 💞️ I’m looking to collaborate on problem solving projects
 - 📫 How to reach me : binyamdele23@gmail.com
 
